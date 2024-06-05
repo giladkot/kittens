@@ -1,0 +1,17 @@
+body {
+    height: 100%;
+    padding: 0%;
+    margin: 0%;
+    background-image: url('assets/images/210908ncac104.jpg');
+    background-size: cover;
+}
+
+
+.front-text {
+    text-align: center;
+}
+
+.front-text > p {
+    font-weight: bold;
+    background-color: aqua;
+}
